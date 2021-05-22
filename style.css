@@ -1,0 +1,22 @@
+.menu{
+    position: fixed;
+    background: black;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    text-align: center;
+}
+.parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+#home{
+    padding-left: 36%;
+}
+#img2{
+    height: 20px;
+    
+}
